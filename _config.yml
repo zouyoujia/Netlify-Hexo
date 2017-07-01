@@ -1,6 +1,5 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
+# Hexo 配置文件
+# 需要修改的内容已经用中文标注出来了
 
 # Site
 title: 站点标题
@@ -10,9 +9,7 @@ author: 站点作者
 language: zh-Hans
 timezone:
 
-# URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://yoursite.com
+url: https://站点域名
 root: /
 permalink: :title/
 permalink_defaults:
