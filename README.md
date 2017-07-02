@@ -25,4 +25,4 @@
 在 Publish directory 中输入 `public`
 
 # 0x06
-点击 deploy 按钮，等待大约一分钟时间，点击绿色 Browse site 按钮，根据提示完成后续操作
+点击 deploy 按钮，等待大约一分钟时间，点击上面 `settings` ，再按绿色 Browse site 按钮，根据提示完成后续操作
