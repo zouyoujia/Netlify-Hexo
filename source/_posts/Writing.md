@@ -1,3 +1,8 @@
+title: 写作
+date: 2017-6-29
+---
+打开 GitHub 上你刚刚 Fork 的仓库
+
 进入 source/_post 文件夹，新建一个文件
 
 文件名称为文章标题.md     
