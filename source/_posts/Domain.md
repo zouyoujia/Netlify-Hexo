@@ -17,8 +17,8 @@ date: 2017-6-30
 ### 配置 SSL 证书
 回到 Netlify 控制台      
 进入你的网站设置界面     
-点击绿色 Enable SSL -> Let's Encrypt -> save      
-然后刷新一下     
+点击绿色 Enable HTTPS -> Let's Encrypt -> save      
+然后刷新一下    
 勾上那个 Force TLS
 
 # 如果只是使用 Netlify 提供的二级域名
