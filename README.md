@@ -1,8 +1,10 @@
+如果是手机，先戳右下角的 Desktop Vision
+
 # 0x00
 你得有一个 GitHub 账号，最好有一个[域名](https://dnspod.qcloud.com)，也可以使用 Netlify 提供的二级域名
 
 # 0x01
-~~先点击右上角的 Star，~~再点击右上角的 Fork
+(右上角)先戳 Star，再戳 Fork
 
 # 0x02
 打开 `_config.yml` 文件   
