@@ -1,4 +1,4 @@
-如果是手机，先戳右下角的 Desktop Vision
+如果是手机，先戳右下角的 Desktop Version
 
 # 0x00
 你得有一个 GitHub 账号，最好有一个[域名](https://dnspod.qcloud.com)，也可以使用 Netlify 提供的二级域名
