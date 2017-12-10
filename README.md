@@ -1,3 +1,7 @@
+本项目不同与 @Bitmoe 的 Hexo 便携版，本项目是上传了源码在云端进行编译渲染的，整个步骤在浏览器中完成，不需要在电脑上安装大量文件，节省配置时间并降低故障发生率。当使用本地版 Hexo 时发生任何问题或故障可以试试用本项目解决
+
+本项目还支持自定义域名的 HTTPS 证书
+
 如果是手机，先戳右下角的 Desktop Version
 
 # 0x00
@@ -10,14 +14,14 @@
 打开 `_config.yml` 文件   
 点击右上角的笔   
 根据提示修改内容
-完成后点击下方绿色的 `Comment Changes`
+完成后点击下方的 `Commit Changes`
 
 # 0x03
 打开 [Netlify 网站](https://app.netlify.com)   
 使用 GitHub 账号登录
 
 # 0x04
-点击绿色 `New Site From Git`   
+点击 `New Site From Git`   
 选择 GitHub   
 授权登录
 
